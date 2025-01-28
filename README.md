@@ -1,8 +1,8 @@
 # Sobre Mí
 
-Titulado de Ingeniero en Informática dedico mi tiempo a ser Desarrollador y Fotografo Aficionado
+### Titulado de Ingeniero en Informática dedico mi tiempo a ser Desarrollador y Fotografo Aficionado
 
-# Algunas Tecnologías que conozco:
+# Algunas Tecnologías que conozco
 
 ## Programming
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
